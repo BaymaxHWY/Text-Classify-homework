@@ -1,0 +1,10 @@
+.idea/
+data/
+THUCNews/
+stop_words_ch.txt
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+__pycache__/
+*.py[cod]
+*$py.class
